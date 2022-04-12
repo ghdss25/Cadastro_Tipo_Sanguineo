@@ -8,7 +8,7 @@
 
 ** IMC por Título ** 
 
-** Peso por Altura ** 
+** Altura  ** 
 
 ** Peso por Medo **
 
