@@ -95,7 +95,7 @@
 ** IMC por Nome ** 
 <img src="Grafico_7.png"> 
 
-** Ultima Consulta de IMC por Ano **
+** Ultima Consulta de IMC por Ano ** 
 <img srco="Grafico_8.png"> 
 
 ** Imc por Sexo e Profissão **
