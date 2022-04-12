@@ -74,10 +74,10 @@
 ** IMC por Título ** 
 <img src="Grafico_1.png">
 
-** Peso por Altura ** 
+** Peso por Cidade ** 
 <img src="Grafico_2_0.png">
 
-** Peso por Cidade **
+** Peso por Altura **
 <img src="Grafico_2_1.png">
 
 ** IMC por Cidade ** 
