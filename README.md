@@ -10,7 +10,7 @@
 
 ** Altura  ** 
 
-** Peso por Medo **
+** Peso e Altura por Cidade **
 
 ** IMC por Cidade ** 
 
@@ -77,7 +77,7 @@
 ** Peso por Altura ** 
 <img src="Grafico_2_0.png">
 
-** Peso por Medo **
+** Peso por Cidade **
 <img src="Grafico_2_1.png">
 
 ** IMC por Cidade ** 
