@@ -96,13 +96,13 @@
 <img src="Grafico_7.png"> 
 
 ** Ultima Consulta de IMC por Ano ** 
-<img srco="Grafico_8.png"> 
+<img src="Grafico_8.png"> 
 
 ** Imc por Sexo e Profissão **
-<img srco="Grafico_9.png"> 
+<img src="Grafico_9.png"> 
 
 ** Imc por Tipo Sanguineo e Cidade ** 
-<img srco="Grafico_10.png"> 
+<img src="Grafico_10.png"> 
 
 Desenvolvido por Gustavo Henrique de Souza Silva
 
